@@ -3,9 +3,9 @@
 
 
 
-![Framework of MT²KD](1.png)
+![Framework of MT²KD](MT2KD/1.png)
 
-![Framework of MT²KD](2.png)
+![Framework of MT²KD](MT2KD/2.png)
 
 
 This repo:
