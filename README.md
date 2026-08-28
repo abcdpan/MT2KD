@@ -44,4 +44,4 @@ Torch 2.0.0+
 3. Train student:
    ```
    python train_student_muilti_to_muilti.py --dataset cifar100 --path_t ./scripts/save/resnet32x4_vanilla/ckpt_epoch_240.pth --cls_channels 256 --cls_size 1 --path_cls1  MT2KD/save/classifier/models/Classifier_T_resnet32x4_cifar100_T3_1/classifier_best.pth --path_cls2 MT2KD/save/classifier/models/Classifier_T_resnet32x4_cifar100_T6_1/classifier_best.pth --model_s resnet8x4_multiCls --distill kd --cls 0.1 --div 9.0 -b 0
-   ```
+   ```# MT2KD
