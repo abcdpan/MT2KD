@@ -1,0 +1,10 @@
+{
+    "val_loss": 0.8762854375839233,
+    "val_x1_acc1": 79.43,
+    "val_x1_acc5": 94.61,
+    "val_x2_acc1": 79.43,
+    "val_x2_acc5": 94.61,
+    "best_x1_acc": 79.43,
+    "best_x2_acc": 79.43,
+    "epoch": 29
+}
